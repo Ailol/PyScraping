@@ -7,6 +7,6 @@
 
 ```
   positional arguments:
-  - username - Enter login username \
+  - username - Enter login username\
   - password - Enter user password
 ```
