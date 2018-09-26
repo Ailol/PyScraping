@@ -1,64 +1,69 @@
-
 import argparse
+import sys
 import os
 import requests
 import lxml
 from lxml import html
 
 """	
-	Short webscraper that fetches registered players in telenorligaen @ GAMER.no
+	Short webscraper that fetches registered teams in telenorligaen @ GAMER.no
 """
 session_requests = requests.session()
 
-def login(username, password, token, url):
-
+def login(username, password): 
 	payload = {
 		"email": username,
 		"password": password,
-		"_token": token
+		"_token": "_token"
 	}
 
+	url  = "https://auth.tumedia.no/logg-inn"
 	result 	= session_requests.get(url)
 	tree 	= html.fromstring(result.text)
 
 	authenticity_token = list(set(tree.xpath("//input[@name='_token']/@value")))[0]
-
 	result = session_requests.post(url, data = payload, headers = dict(referer=url))
 
+	## FIX: sending value back
 	if result.status_code == 200:
-		print("Logged inn!")
+		pass
 	else:
-		print("Something went wrong with login. Code: " + str(result))
+		raise IndexError
 
 
-def get_list():
+def get_teams():
+	"""
+		Creates list of teams and signup dates, returns a tuple [(TEAM, SIGNUP TIME)].
+	"""
 
 	url = "https://www.gamer.no/turneringer/telenorligaen-counter-strike-go-hosten-2018/4950/deltakere/"
 	result = session_requests.get(url, headers = dict(referer = url))
 	tree   = html.fromstring(result.content)
 
-	players = tree.xpath("//ul[@class='signup-name']/ul/text()")
-	print(players)
-	tot_players = []
-	for name in players:
-		tot_players.append(name)
+	team_list = (tree.xpath('.//span[contains(@class, "signup-name")]/a/text()'))
+	signup_list = (tree.xpath('.//span[contains(@class, "signup-time")]/text()'))
 
-	print(tot_players)
-
+	return list(zip(team_list, signup_list))
 
 def main(*args):
+	"""
+		Tries to query login and fetch teams, raises 
+		indexing error if login failed. 
+	"""
 
 	try:
-		login(args[0],args[1],args[2],args[3])
-	except BaseException:
-		raise ValueError
+		login(args[0],args[1])
+		DB = get_teams()
+	except IndexError:
+		print('Error on line {}'.format(sys.exc_info()[-1].tb_lineno)) 
 
-	get_list()
+	matching = [s for s in DB if "Pokepals" in s]
+	print(matching)
+
 
 if __name__ == "__main__":
-
 	parser = argparse.ArgumentParser(
-	    description='Simple webscraper for given urls,\n args: username, password, login url, login token')
+	    description='Simple webscraper for GAMER.no,\n args: username(EMAIL), password')
 	parser.add_argument(
 	    'username',
 	    type=str,
@@ -69,21 +74,10 @@ if __name__ == "__main__":
 	    type=str,
 	    help='Enter password for site',
 	    default="err")
-	parser.add_argument(
-	    'URL',
-	    type=str,
-	    help='Enter login url (www.google.com/login)',
-	    default="err")
-	parser.add_argument(
-	    'token',
-	    type=str,
-	    help='<<inspect>> login element',
-	    default="err")
 
 	args = parser.parse_args()
 
-	main(args.username, args.password, args.token, args.URL)
-
+	main(args.username, args.password)
 
 
 
