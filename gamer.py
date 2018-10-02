@@ -4,6 +4,7 @@ import os
 import requests
 import lxml
 from lxml import html
+import db
 
 """	
 	Short webscraper that fetches registered teams in telenorligaen @ GAMER.no
@@ -57,8 +58,9 @@ def main(*args):
 	except IndexError:
 		print('Error on line {}'.format(sys.exc_info()[-1].tb_lineno)) 
 
-	matching = [s for s in DB if "Pokepals" in s]
-	print(matching)
+	db.create_database(DB)
+	print("Created a database of gamer teams!")
+
 
 
 if __name__ == "__main__":
