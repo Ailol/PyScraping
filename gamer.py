@@ -59,8 +59,6 @@ def main(*args):
 		print('Error on line {}'.format(sys.exc_info()[-1].tb_lineno)) 
 
 	db.create_database(DB)
-	print("Created a database of gamer teams!")
-
 
 
 if __name__ == "__main__":
