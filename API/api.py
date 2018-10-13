@@ -54,6 +54,9 @@ def get_details(data, *args):
 	"""
 		need to add forloops inorder to iterate through all values
 		eg. for i in range(len(something)).
+
+		Need to beautify and optimilize, add some fancy functions
+		
 	"""
 
 	i = 0
