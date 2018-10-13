@@ -3,7 +3,12 @@ import requests as req
 from pprint import pprint
 
 debug = "Succeed"
-
+players = []
+skill_level = []
+countries = []
+team = []
+group = []
+superlist = []
 """
 	Input server key as ua
 """
@@ -47,9 +52,36 @@ def get(url, params=None):
 
 def get_details(data, *args):
 	"""
-		create regex pattern to match key,value
+		need to add forloops inorder to iterate through all values
+		eg. for i in range(len(something)).
 	"""
-	pass
+
+	i = 0
+
+	for item in data:
+		for k, v in item.items():
+			if k == 'group':
+				group.append(v)
+			try:
+				for key,value in v.items():
+					try:
+						if(key == 'members'):
+							for item in value:
+								for key,value in item.items():
+									if key == 'country':
+										countries.append(value)
+									if key == 'nickname':
+										players.append(value)
+									if key == 'skill_level':
+										skill_level.append(value)
+						if key == 'name':
+							team.append(value)
+					except IndexError:
+						continue
+			except AttributeError:
+				continue
+
+	print(players, '\n\n', skill_level,'\n\n' ,team,'\n\n', countries,group, '\n\n')
 
 
 
@@ -66,7 +98,7 @@ def get_teams(url, num_teams=None, dump=None):
 			for i in range(0, num_teams , 10):
 				url2 = (url + str(i) + '&limit=10')
 				data = json.loads((get(url2).content).decode('utf-8'))
-				json.dump(data, f, sort_keys = True, indent = 4, ensure_ascii = False)
+				return json.dump(data, f, sort_keys = True, indent = 4, ensure_ascii = False)
 	else:
 		for i in range(0, num_teams , 20):
 			url2 = (url + str(i) + '&limit=20')
@@ -87,7 +119,10 @@ def main():
 	param = (('expanded','game'),)
 
 	print(get_current_subs())
-	data = get_teams(url2, 50)
-	
+	data = get_teams(url2,get_current_subs())
+	for key, value in data.items():
+		if key == 'items':
+			for i in range(len(key)):
+				get_details(value, None)
 if __name__ == "__main__":
 	main()

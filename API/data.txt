@@ -4,7 +4,7 @@
         {
             "coach": "",
             "coleader": "ab7bef70-0113-4eb7-86f1-b15c084b9dc9",
-            "group": 0,
+            "group": 68,
             "leader": "efdef7d9-f099-4922-9a8b-639e16f03591",
             "roster": [
                 "ab7bef70-0113-4eb7-86f1-b15c084b9dc9",
@@ -36,12 +36,20 @@
                         "user_id": "efdef7d9-f099-4922-9a8b-639e16f03591"
                     },
                     {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/d56176bf-db8e-4bb9-8f4c-cf5eb4224b58_1534624950508",
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/ab7bef70-0113-4eb7-86f1-b15c084b9dc9_1446660298565",
                         "country": "FI",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/tondE_",
-                        "nickname": "tondE_",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/ROUMI",
+                        "nickname": "ROUMI",
                         "skill_level": 10,
-                        "user_id": "d56176bf-db8e-4bb9-8f4c-cf5eb4224b58"
+                        "user_id": "ab7bef70-0113-4eb7-86f1-b15c084b9dc9"
+                    },
+                    {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/8f96924b-d285-4357-960c-75412a039c8c_1496345136072",
+                        "country": "FI",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/jjrNz",
+                        "nickname": "jjrNz",
+                        "skill_level": 10,
+                        "user_id": "8f96924b-d285-4357-960c-75412a039c8c"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/0f3d23db-fc36-4c22-857b-b301baa2a897_1452450279962",
@@ -60,20 +68,12 @@
                         "user_id": "c37c3965-fb63-4db1-a4a4-3bfed123d1a9"
                     },
                     {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/ab7bef70-0113-4eb7-86f1-b15c084b9dc9_1446660298565",
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/d56176bf-db8e-4bb9-8f4c-cf5eb4224b58_1534624950508",
                         "country": "FI",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/ROUMI",
-                        "nickname": "ROUMI",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/tondE_",
+                        "nickname": "tondE_",
                         "skill_level": 10,
-                        "user_id": "ab7bef70-0113-4eb7-86f1-b15c084b9dc9"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/8f96924b-d285-4357-960c-75412a039c8c_1496345136072",
-                        "country": "FI",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/jjrNz",
-                        "nickname": "jjrNz",
-                        "skill_level": 10,
-                        "user_id": "8f96924b-d285-4357-960c-75412a039c8c"
+                        "user_id": "d56176bf-db8e-4bb9-8f4c-cf5eb4224b58"
                     }
                 ],
                 "name": "thankmrwty",
@@ -88,7 +88,7 @@
         {
             "coach": "",
             "coleader": "c5d67963-9ad1-444b-9aeb-069a7c9e91fa",
-            "group": 0,
+            "group": 69,
             "leader": "b9e462d1-0006-47e8-9713-62ca14a40993",
             "roster": [
                 "e7ff0e87-a64a-47af-b878-d6342d597296",
@@ -128,20 +128,20 @@
                         "user_id": "a87f6072-d7b7-4f59-8750-0f1eb78e5424"
                     },
                     {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/7ce7b49c-800c-4734-9fab-b92fed042236_1533682333351",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Palheta",
-                        "nickname": "Palheta",
-                        "skill_level": 10,
-                        "user_id": "7ce7b49c-800c-4734-9fab-b92fed042236"
-                    },
-                    {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/42b1fbfd-65c9-4aa1-a79e-5e10551435a4_1533074761650",
                         "country": "PT",
                         "faceit_url": "https://www.faceit.com/{lang}/players/SRCARLOS",
                         "nickname": "SRCARLOS",
                         "skill_level": 10,
                         "user_id": "42b1fbfd-65c9-4aa1-a79e-5e10551435a4"
+                    },
+                    {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/7ce7b49c-800c-4734-9fab-b92fed042236_1533682333351",
+                        "country": "PT",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/Palheta",
+                        "nickname": "Palheta",
+                        "skill_level": 10,
+                        "user_id": "7ce7b49c-800c-4734-9fab-b92fed042236"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/b9e462d1-0006-47e8-9713-62ca14a40993_1534049125557",
@@ -172,7 +172,7 @@
         {
             "coach": "",
             "coleader": "",
-            "group": 0,
+            "group": 28,
             "leader": "17646bdf-89aa-4141-89fc-55f0c1e7d57a",
             "roster": [
                 "edc06c6b-996c-42c1-ad20-d3968e115e64",
@@ -181,7 +181,7 @@
                 "72963059-6a89-418f-b2d6-2c44b4c84bc3",
                 "e363fd82-e84a-4948-8c4c-88c894a713c4"
             ],
-            "status": "joined",
+            "status": "checkedIn",
             "substitutes": [],
             "team": {
                 "avatar": "",
@@ -194,20 +194,20 @@
                 "leader": "17646bdf-89aa-4141-89fc-55f0c1e7d57a",
                 "members": [
                     {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/e363fd82-e84a-4948-8c4c-88c894a713c4_1465620820659",
-                        "country": "BR",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/brA-",
-                        "nickname": "brA-",
-                        "skill_level": 9,
-                        "user_id": "e363fd82-e84a-4948-8c4c-88c894a713c4"
-                    },
-                    {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/17646bdf-89aa-4141-89fc-55f0c1e7d57a_1473280452055",
-                        "country": "BR",
+                        "country": "PT",
                         "faceit_url": "https://www.faceit.com/{lang}/players/Demonos",
                         "nickname": "Demonos",
                         "skill_level": 10,
                         "user_id": "17646bdf-89aa-4141-89fc-55f0c1e7d57a"
+                    },
+                    {
+                        "avatar": "https://cdn.faceit.com/avatars/e363fd82-e84a-4948-8c4c-88c894a713c4_1539435027077.jpg",
+                        "country": "PT",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/brA-",
+                        "nickname": "brA-",
+                        "skill_level": 10,
+                        "user_id": "e363fd82-e84a-4948-8c4c-88c894a713c4"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/edc06c6b-996c-42c1-ad20-d3968e115e64_1516054827436",
@@ -218,20 +218,20 @@
                         "user_id": "edc06c6b-996c-42c1-ad20-d3968e115e64"
                     },
                     {
-                        "avatar": "",
-                        "country": "BR",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/fas7",
-                        "nickname": "fas7",
-                        "skill_level": 10,
-                        "user_id": "72963059-6a89-418f-b2d6-2c44b4c84bc3"
-                    },
-                    {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/71f7f2a5-a616-43eb-8477-40da140ab1d6_1536105528769",
-                        "country": "BR",
+                        "country": "PT",
                         "faceit_url": "https://www.faceit.com/{lang}/players/Spi7",
                         "nickname": "Spi7",
                         "skill_level": 10,
                         "user_id": "71f7f2a5-a616-43eb-8477-40da140ab1d6"
+                    },
+                    {
+                        "avatar": "https://cdn.faceit.com/avatars/72963059-6a89-418f-b2d6-2c44b4c84bc3_1539081336823.jpg",
+                        "country": "PT",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/fas7",
+                        "nickname": "fas7",
+                        "skill_level": 10,
+                        "user_id": "72963059-6a89-418f-b2d6-2c44b4c84bc3"
                     }
                 ],
                 "name": "Baecon Gaming G",
@@ -246,7 +246,7 @@
         {
             "coach": "",
             "coleader": "0ba79a6e-77da-4b55-9977-b674c4fe7714",
-            "group": 0,
+            "group": 1,
             "leader": "967b7973-1665-4763-b9cf-7fd34e791453",
             "roster": [
                 "2405bbff-b38a-4f3f-964d-108cbbca79c1",
@@ -272,6 +272,14 @@
                 "leader": "967b7973-1665-4763-b9cf-7fd34e791453",
                 "members": [
                     {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/48e8e4c6-6d06-4380-8a62-6cbfe54d7769_1533939333902",
+                        "country": "PT",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/SalAmarRak",
+                        "nickname": "SalAmarRak",
+                        "skill_level": 10,
+                        "user_id": "48e8e4c6-6d06-4380-8a62-6cbfe54d7769"
+                    },
+                    {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/2bfee3f6-1594-46c1-b40f-c7ba73e12a6f_1508558254801",
                         "country": "PT",
                         "faceit_url": "https://www.faceit.com/{lang}/players/pshhh",
@@ -280,20 +288,12 @@
                         "user_id": "2bfee3f6-1594-46c1-b40f-c7ba73e12a6f"
                     },
                     {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/2405bbff-b38a-4f3f-964d-108cbbca79c1_1510363078990",
+                        "avatar": "https://cdn.faceit.com/avatars/967b7973-1665-4763-b9cf-7fd34e791453_1538876328379.jpg",
                         "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/xAims",
-                        "nickname": "xAims",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/whatz1",
+                        "nickname": "whatz1",
                         "skill_level": 10,
-                        "user_id": "2405bbff-b38a-4f3f-964d-108cbbca79c1"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/48e8e4c6-6d06-4380-8a62-6cbfe54d7769_1533939333902",
-                        "country": "GA",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/SalAmarRak",
-                        "nickname": "SalAmarRak",
-                        "skill_level": 10,
-                        "user_id": "48e8e4c6-6d06-4380-8a62-6cbfe54d7769"
+                        "user_id": "967b7973-1665-4763-b9cf-7fd34e791453"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/0ba79a6e-77da-4b55-9977-b674c4fe7714_1512947851221",
@@ -302,6 +302,14 @@
                         "nickname": "NABOWOWet",
                         "skill_level": 10,
                         "user_id": "0ba79a6e-77da-4b55-9977-b674c4fe7714"
+                    },
+                    {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/2405bbff-b38a-4f3f-964d-108cbbca79c1_1510363078990",
+                        "country": "PT",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/xAims",
+                        "nickname": "xAims",
+                        "skill_level": 10,
+                        "user_id": "2405bbff-b38a-4f3f-964d-108cbbca79c1"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/151c7a0f-3bb4-41fc-b72b-4e6fd98cf130_1526994710961",
@@ -318,14 +326,6 @@
                         "nickname": "sillerhw",
                         "skill_level": 10,
                         "user_id": "e30653f0-1f9e-4042-bcde-83bcff790563"
-                    },
-                    {
-                        "avatar": "https://cdn.faceit.com/avatars/967b7973-1665-4763-b9cf-7fd34e791453_1538188760679.jpg",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/whatz1",
-                        "nickname": "whatz1",
-                        "skill_level": 10,
-                        "user_id": "967b7973-1665-4763-b9cf-7fd34e791453"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/db44bc93-40b0-4461-ba79-fb8044cc9b79_1532013733848",
@@ -348,7 +348,7 @@
         {
             "coach": "",
             "coleader": "",
-            "group": 0,
+            "group": 2,
             "leader": "876d75d8-994d-4e29-a924-0c17f53b7ae0",
             "roster": [
                 "d34d4ad8-96b1-433d-b02b-a5bedab5c261",
@@ -370,20 +370,20 @@
                 "leader": "876d75d8-994d-4e29-a924-0c17f53b7ae0",
                 "members": [
                     {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/d34d4ad8-96b1-433d-b02b-a5bedab5c261_1512654962112",
+                        "country": "TR",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/Shooler",
+                        "nickname": "Shooler",
+                        "skill_level": 10,
+                        "user_id": "d34d4ad8-96b1-433d-b02b-a5bedab5c261"
+                    },
+                    {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/a62b65c6-f07b-4e69-acc9-214d0988c579_1527602841356",
                         "country": "PT",
                         "faceit_url": "https://www.faceit.com/{lang}/players/sarkkk",
                         "nickname": "sarkkk",
                         "skill_level": 10,
                         "user_id": "a62b65c6-f07b-4e69-acc9-214d0988c579"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/d34d4ad8-96b1-433d-b02b-a5bedab5c261_1512654962112",
-                        "country": "FI",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Shooler",
-                        "nickname": "Shooler",
-                        "skill_level": 10,
-                        "user_id": "d34d4ad8-96b1-433d-b02b-a5bedab5c261"
                     },
                     {
                         "avatar": "",
@@ -422,7 +422,7 @@
         {
             "coach": "",
             "coleader": "",
-            "group": 0,
+            "group": 3,
             "leader": "c6e3824c-d80d-4ef8-86ab-a44761e0ba86",
             "roster": [
                 "998cefb4-c24f-4175-9fab-d094b46d782e",
@@ -431,7 +431,7 @@
                 "680ae4e9-1d2c-446f-a52f-ecd0f5765305",
                 "3f0ca77a-723d-4a9b-bb8c-ecc225066c5a"
             ],
-            "status": "joined",
+            "status": "checkedIn",
             "substitutes": [
                 "ba77a9ed-1256-4f4d-88b2-e6cf2fb11502"
             ],
@@ -506,7 +506,7 @@
         {
             "coach": "",
             "coleader": "e0b80897-9fd5-4b56-ac74-e7c9e8939181",
-            "group": 0,
+            "group": 19,
             "leader": "81d6b910-72f4-40a5-9d6c-cb5b0d9299f6",
             "roster": [
                 "7fccabae-9b68-4175-9ec7-14fd89b0f381",
@@ -546,20 +546,20 @@
                         "user_id": "7fccabae-9b68-4175-9ec7-14fd89b0f381"
                     },
                     {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/c71aaf8a-8590-4846-9a11-ee747e8d57a7_1504142512813",
+                        "country": "GB",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/kubaG0D",
+                        "nickname": "kubaG0D",
+                        "skill_level": 10,
+                        "user_id": "c71aaf8a-8590-4846-9a11-ee747e8d57a7"
+                    },
+                    {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/e0b80897-9fd5-4b56-ac74-e7c9e8939181_1536948279795",
                         "country": "BE",
                         "faceit_url": "https://www.faceit.com/{lang}/players/Danterinho",
                         "nickname": "Danterinho",
                         "skill_level": 10,
                         "user_id": "e0b80897-9fd5-4b56-ac74-e7c9e8939181"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/3b6647d3-36b6-4f1e-9628-be59feac8001_1536078801943",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/STEEV99",
-                        "nickname": "STEEV99",
-                        "skill_level": 8,
-                        "user_id": "3b6647d3-36b6-4f1e-9628-be59feac8001"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/b207c453-525f-46c1-ba19-070d7a07d50b_1531516832151",
@@ -570,12 +570,12 @@
                         "user_id": "b207c453-525f-46c1-ba19-070d7a07d50b"
                     },
                     {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/c71aaf8a-8590-4846-9a11-ee747e8d57a7_1504142512813",
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/3b6647d3-36b6-4f1e-9628-be59feac8001_1536078801943",
                         "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/kubaG0D",
-                        "nickname": "kubaG0D",
-                        "skill_level": 10,
-                        "user_id": "c71aaf8a-8590-4846-9a11-ee747e8d57a7"
+                        "faceit_url": "https://www.faceit.com/{lang}/players/STEEV99",
+                        "nickname": "STEEV99",
+                        "skill_level": 8,
+                        "user_id": "3b6647d3-36b6-4f1e-9628-be59feac8001"
                     }
                 ],
                 "name": "Ryhit CS",
@@ -590,7 +590,7 @@
         {
             "coach": "",
             "coleader": "",
-            "group": 0,
+            "group": 29,
             "leader": "f8279d9a-893c-49ef-850c-f7cd02064494",
             "roster": [
                 "135604d6-19bc-4b8b-9944-da89b244e48c",
@@ -614,28 +614,12 @@
                 "leader": "f8279d9a-893c-49ef-850c-f7cd02064494",
                 "members": [
                     {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/1c35db12-ce2e-4f67-b240-121c9fd7adf8_1528060889946",
-                        "country": "GR",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/_DNS",
-                        "nickname": "_DNS",
-                        "skill_level": 9,
-                        "user_id": "1c35db12-ce2e-4f67-b240-121c9fd7adf8"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/edfedc55-7f0d-4d4b-b56a-2f27aa4ad52a_1535994235168",
+                        "avatar": "https://cdn.faceit.com/avatars/7544040a-ce0e-4e33-a36b-e7e714e577fe_1538889767064.jpg",
                         "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/trn4500",
-                        "nickname": "trn4500",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/josteriflerr",
+                        "nickname": "josteriflerr",
                         "skill_level": 10,
-                        "user_id": "edfedc55-7f0d-4d4b-b56a-2f27aa4ad52a"
-                    },
-                    {
-                        "avatar": "",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/dzt",
-                        "nickname": "dzt",
-                        "skill_level": 7,
-                        "user_id": "6fc6b5f9-8c29-4283-8edd-f673fc23a403"
+                        "user_id": "7544040a-ce0e-4e33-a36b-e7e714e577fe"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/f8279d9a-893c-49ef-850c-f7cd02064494_1470913663264",
@@ -654,12 +638,28 @@
                         "user_id": "135604d6-19bc-4b8b-9944-da89b244e48c"
                     },
                     {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/7544040a-ce0e-4e33-a36b-e7e714e577fe_1538006192431",
+                        "avatar": "",
                         "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/josteriflerr",
-                        "nickname": "josteriflerr",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/dzt",
+                        "nickname": "dzt",
+                        "skill_level": 8,
+                        "user_id": "6fc6b5f9-8c29-4283-8edd-f673fc23a403"
+                    },
+                    {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/1c35db12-ce2e-4f67-b240-121c9fd7adf8_1528060889946",
+                        "country": "GR",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/_DNS",
+                        "nickname": "_DNS",
+                        "skill_level": 9,
+                        "user_id": "1c35db12-ce2e-4f67-b240-121c9fd7adf8"
+                    },
+                    {
+                        "avatar": "https://cdn.faceit.com/avatars/edfedc55-7f0d-4d4b-b56a-2f27aa4ad52a_1539300822214.jpg",
+                        "country": "PT",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/trn4500",
+                        "nickname": "trn4500",
                         "skill_level": 10,
-                        "user_id": "7544040a-ce0e-4e33-a36b-e7e714e577fe"
+                        "user_id": "edfedc55-7f0d-4d4b-b56a-2f27aa4ad52a"
                     }
                 ],
                 "name": "ARLINDO",
@@ -674,7 +674,7 @@
         {
             "coach": "",
             "coleader": "9d9e18e3-b33f-4c1c-8b9d-e508aa0f5e04",
-            "group": 0,
+            "group": 15,
             "leader": "549b9c80-676c-4c2a-a1ab-9682fe280d77",
             "roster": [
                 "78cb82af-2ec4-4dbb-9e6f-ab5840893b0d",
@@ -696,20 +696,20 @@
                 "leader": "549b9c80-676c-4c2a-a1ab-9682fe280d77",
                 "members": [
                     {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/6c6b81b3-50de-4174-b980-cc94145c9247_1516893832393",
+                        "country": "NL",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/BaardbeiKing",
+                        "nickname": "BaardbeiKing",
+                        "skill_level": 9,
+                        "user_id": "6c6b81b3-50de-4174-b980-cc94145c9247"
+                    },
+                    {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/78cb82af-2ec4-4dbb-9e6f-ab5840893b0d_1427915085410",
                         "country": "SE",
                         "faceit_url": "https://www.faceit.com/{lang}/players/1kanD",
                         "nickname": "1kanD",
                         "skill_level": 10,
                         "user_id": "78cb82af-2ec4-4dbb-9e6f-ab5840893b0d"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/ab1109dc-05b3-426d-9b8a-f613905f2cc7_1496567973254",
-                        "country": "US",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Jlinds",
-                        "nickname": "Jlinds",
-                        "skill_level": 4,
-                        "user_id": "ab1109dc-05b3-426d-9b8a-f613905f2cc7"
                     },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/549b9c80-676c-4c2a-a1ab-9682fe280d77_1506622884694",
@@ -720,20 +720,20 @@
                         "user_id": "549b9c80-676c-4c2a-a1ab-9682fe280d77"
                     },
                     {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/ab1109dc-05b3-426d-9b8a-f613905f2cc7_1496567973254",
+                        "country": "US",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/Jlinds",
+                        "nickname": "Jlinds",
+                        "skill_level": 4,
+                        "user_id": "ab1109dc-05b3-426d-9b8a-f613905f2cc7"
+                    },
+                    {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/9d9e18e3-b33f-4c1c-8b9d-e508aa0f5e04_1485554221869",
                         "country": "DE",
                         "faceit_url": "https://www.faceit.com/{lang}/players/NotAgainGG",
                         "nickname": "NotAgainGG",
                         "skill_level": 7,
                         "user_id": "9d9e18e3-b33f-4c1c-8b9d-e508aa0f5e04"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/6c6b81b3-50de-4174-b980-cc94145c9247_1516893832393",
-                        "country": "NL",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/BaardbeiKing",
-                        "nickname": "BaardbeiKing",
-                        "skill_level": 9,
-                        "user_id": "6c6b81b3-50de-4174-b980-cc94145c9247"
                     }
                 ],
                 "name": "Baard Sucks",
@@ -748,7 +748,7 @@
         {
             "coach": "",
             "coleader": "c958b725-2561-4787-8c7e-84f34fcce14a",
-            "group": 0,
+            "group": 4,
             "leader": "4cfc3008-9d98-45f8-835d-f08a970ba6ab",
             "roster": [
                 "0faf3a11-ac50-491c-8b1f-b59a32adca4b",
@@ -769,22 +769,6 @@
                 "game": "",
                 "leader": "4cfc3008-9d98-45f8-835d-f08a970ba6ab",
                 "members": [
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/5334d5fd-e1a9-40be-affa-530ef1974d22_1520611986330",
-                        "country": "PL",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/borsuq",
-                        "nickname": "borsuq",
-                        "skill_level": 10,
-                        "user_id": "5334d5fd-e1a9-40be-affa-530ef1974d22"
-                    },
-                    {
-                        "avatar": "",
-                        "country": "PL",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/nkrnkr",
-                        "nickname": "nkrnkr",
-                        "skill_level": 10,
-                        "user_id": "e726aa64-be82-4b0d-b6ab-13cf0841cf42"
-                    },
                     {
                         "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/4cfc3008-9d98-45f8-835d-f08a970ba6ab_1537222302405",
                         "country": "PL",
@@ -808,6 +792,22 @@
                         "nickname": "majczu_",
                         "skill_level": 10,
                         "user_id": "0faf3a11-ac50-491c-8b1f-b59a32adca4b"
+                    },
+                    {
+                        "avatar": "",
+                        "country": "PL",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/nkrnkr",
+                        "nickname": "nkrnkr",
+                        "skill_level": 10,
+                        "user_id": "e726aa64-be82-4b0d-b6ab-13cf0841cf42"
+                    },
+                    {
+                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/5334d5fd-e1a9-40be-affa-530ef1974d22_1520611986330",
+                        "country": "PL",
+                        "faceit_url": "https://www.faceit.com/{lang}/players/borsuq",
+                        "nickname": "borsuq",
+                        "skill_level": 10,
+                        "user_id": "5334d5fd-e1a9-40be-affa-530ef1974d22"
                     }
                 ],
                 "name": "GROM F1RST GH",
@@ -821,836 +821,4 @@
         }
     ],
     "start": 0
-}{
-    "end": 20,
-    "items": [
-        {
-            "coach": "",
-            "coleader": "f095e5c7-3c54-4ac5-a1a3-31b17a0435e6",
-            "group": 0,
-            "leader": "839b75d0-4f7d-4ad3-8c6f-ed78746195f7",
-            "roster": [
-                "f095e5c7-3c54-4ac5-a1a3-31b17a0435e6",
-                "46edfe08-fd28-4325-aea9-ebdd0df3385a",
-                "348d0639-4b50-45cf-bac0-3a3b05d9d730",
-                "839b75d0-4f7d-4ad3-8c6f-ed78746195f7",
-                "3ee7be3d-2771-4232-a01a-c23cb6e4a904"
-            ],
-            "status": "joined",
-            "substitutes": [
-                "80a7ce9f-15cd-4b19-9398-250ece8e33de"
-            ],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-d2f97458-4bfd-483c-8b20-63ac39291782",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/d2f97458-4bfd-483c-8b20-63ac39291782",
-                "game": "",
-                "leader": "839b75d0-4f7d-4ad3-8c6f-ed78746195f7",
-                "members": [
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/80a7ce9f-15cd-4b19-9398-250ece8e33de_1483808886744",
-                        "country": "RU",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/stepup421",
-                        "nickname": "stepup421",
-                        "skill_level": 8,
-                        "user_id": "80a7ce9f-15cd-4b19-9398-250ece8e33de"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/46edfe08-fd28-4325-aea9-ebdd0df3385a_1493135596060",
-                        "country": "TC",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/q-ReLaX-p",
-                        "nickname": "q-ReLaX-p",
-                        "skill_level": 7,
-                        "user_id": "46edfe08-fd28-4325-aea9-ebdd0df3385a"
-                    },
-                    {
-                        "avatar": "https://cdn.faceit.com/avatars/348d0639-4b50-45cf-bac0-3a3b05d9d730_1538157121690.jpg",
-                        "country": "UA",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Like3Gy",
-                        "nickname": "Like3Gy",
-                        "skill_level": 7,
-                        "user_id": "348d0639-4b50-45cf-bac0-3a3b05d9d730"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/3ee7be3d-2771-4232-a01a-c23cb6e4a904_1526317175817",
-                        "country": "RU",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/FLAME_banany",
-                        "nickname": "FLAME_banany",
-                        "skill_level": 6,
-                        "user_id": "3ee7be3d-2771-4232-a01a-c23cb6e4a904"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/f095e5c7-3c54-4ac5-a1a3-31b17a0435e6_1534953321096",
-                        "country": "KZ",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Grufff",
-                        "nickname": "Grufff",
-                        "skill_level": 8,
-                        "user_id": "f095e5c7-3c54-4ac5-a1a3-31b17a0435e6"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/839b75d0-4f7d-4ad3-8c6f-ed78746195f7_1522676447767",
-                        "country": "RU",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Ben322",
-                        "nickname": "Ben322",
-                        "skill_level": 5,
-                        "user_id": "839b75d0-4f7d-4ad3-8c6f-ed78746195f7"
-                    }
-                ],
-                "name": "JustBet_Gaming",
-                "nickname": "",
-                "team_id": "d2f97458-4bfd-483c-8b20-63ac39291782",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "6fdd74c2-d119-451a-8c64-3b606b265b57",
-            "group": 0,
-            "leader": "c9370046-56d6-4813-92a3-89d94b258766",
-            "roster": [
-                "79008d0c-b456-4e9a-be90-99ee53199efd",
-                "6fdd74c2-d119-451a-8c64-3b606b265b57",
-                "13efa2b3-974e-4201-94ee-595b7bd698a3",
-                "c9370046-56d6-4813-92a3-89d94b258766",
-                "90326fa3-7536-4f40-996b-a6be44c492c8"
-            ],
-            "status": "joined",
-            "substitutes": [],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-18d0b178-0206-473b-944c-5aedd1e3ca8e",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/18d0b178-0206-473b-944c-5aedd1e3ca8e",
-                "game": "",
-                "leader": "c9370046-56d6-4813-92a3-89d94b258766",
-                "members": [
-                    {
-                        "avatar": "https://cdn.faceit.com/avatars/c9370046-56d6-4813-92a3-89d94b258766_1538840784009.jpg",
-                        "country": "FI",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Eudskee",
-                        "nickname": "Eudskee",
-                        "skill_level": 4,
-                        "user_id": "c9370046-56d6-4813-92a3-89d94b258766"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/90326fa3-7536-4f40-996b-a6be44c492c8_1511811815407",
-                        "country": "SE",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/White-Angel",
-                        "nickname": "White-Angel",
-                        "skill_level": 5,
-                        "user_id": "90326fa3-7536-4f40-996b-a6be44c492c8"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/6fdd74c2-d119-451a-8c64-3b606b265b57_1535463106148",
-                        "country": "KR",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/_JeanAbdel_",
-                        "nickname": "_JeanAbdel_",
-                        "skill_level": 10,
-                        "user_id": "6fdd74c2-d119-451a-8c64-3b606b265b57"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/13efa2b3-974e-4201-94ee-595b7bd698a3_1528392522634",
-                        "country": "NO",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Slazy_",
-                        "nickname": "Slazy_",
-                        "skill_level": 10,
-                        "user_id": "13efa2b3-974e-4201-94ee-595b7bd698a3"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/79008d0c-b456-4e9a-be90-99ee53199efd_1526148448216",
-                        "country": "FR",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Revol-",
-                        "nickname": "Revol-",
-                        "skill_level": 10,
-                        "user_id": "79008d0c-b456-4e9a-be90-99ee53199efd"
-                    }
-                ],
-                "name": "EDHEC Esports",
-                "nickname": "",
-                "team_id": "18d0b178-0206-473b-944c-5aedd1e3ca8e",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "d4f5a998-0534-4fd1-a086-18ba0974898c",
-            "group": 0,
-            "leader": "146cca06-6ae4-443b-b90f-649db8e282fe",
-            "roster": [
-                "d0f02ea4-a73f-43e2-b9fb-b5bac70a12d4",
-                "ede34de7-2945-4f35-8271-3baec8ec873f",
-                "256f4f9f-0e8b-46a0-ab23-2ff4a2324b6c",
-                "146cca06-6ae4-443b-b90f-649db8e282fe",
-                "d4f5a998-0534-4fd1-a086-18ba0974898c"
-            ],
-            "status": "checkedIn",
-            "substitutes": [],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-377d4ae3-cd4a-4442-b148-1ca3830926f6",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/377d4ae3-cd4a-4442-b148-1ca3830926f6",
-                "game": "",
-                "leader": "146cca06-6ae4-443b-b90f-649db8e282fe",
-                "members": [
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/256f4f9f-0e8b-46a0-ab23-2ff4a2324b6c_1527010405280",
-                        "country": "CZ",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/ZeTC",
-                        "nickname": "ZeTC",
-                        "skill_level": 10,
-                        "user_id": "256f4f9f-0e8b-46a0-ab23-2ff4a2324b6c"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/ede34de7-2945-4f35-8271-3baec8ec873f_1526130231780",
-                        "country": "CZ",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Waterzzz",
-                        "nickname": "Waterzzz",
-                        "skill_level": 10,
-                        "user_id": "ede34de7-2945-4f35-8271-3baec8ec873f"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/d4f5a998-0534-4fd1-a086-18ba0974898c_1506617795772",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/_-Falcon-_",
-                        "nickname": "_-Falcon-_",
-                        "skill_level": 10,
-                        "user_id": "d4f5a998-0534-4fd1-a086-18ba0974898c"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/146cca06-6ae4-443b-b90f-649db8e282fe_1527861377355",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/_volt",
-                        "nickname": "_volt",
-                        "skill_level": 10,
-                        "user_id": "146cca06-6ae4-443b-b90f-649db8e282fe"
-                    },
-                    {
-                        "avatar": "https://cdn.faceit.com/avatars/d0f02ea4-a73f-43e2-b9fb-b5bac70a12d4_1538457078194.jpg",
-                        "country": "CZ",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/songbird_",
-                        "nickname": "songbird_",
-                        "skill_level": 10,
-                        "user_id": "d0f02ea4-a73f-43e2-b9fb-b5bac70a12d4"
-                    }
-                ],
-                "name": "gameNergy",
-                "nickname": "",
-                "team_id": "377d4ae3-cd4a-4442-b148-1ca3830926f6",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "939217b2-27e3-47ae-a1b4-5f3c0a35ffdb",
-            "group": 0,
-            "leader": "73e6106b-b801-423f-959d-a1a09c68d862",
-            "roster": [
-                "939217b2-27e3-47ae-a1b4-5f3c0a35ffdb",
-                "73e6106b-b801-423f-959d-a1a09c68d862",
-                "3c752890-098d-4b02-8a6c-0eea79de5cb0",
-                "2cd12e9a-2731-4e03-97e9-ffd1bf3951c8",
-                "02f3713e-0bda-4eb8-83f8-565ef4a8a9b5"
-            ],
-            "status": "joined",
-            "substitutes": [],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-8577fbdf-6855-487f-80a5-06666d482e71",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/8577fbdf-6855-487f-80a5-06666d482e71",
-                "game": "",
-                "leader": "73e6106b-b801-423f-959d-a1a09c68d862",
-                "members": [
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/73e6106b-b801-423f-959d-a1a09c68d862_1458081664494",
-                        "country": "LV",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Emis2",
-                        "nickname": "Emis2",
-                        "skill_level": 10,
-                        "user_id": "73e6106b-b801-423f-959d-a1a09c68d862"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/02f3713e-0bda-4eb8-83f8-565ef4a8a9b5_1511360955443",
-                        "country": "LV",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/kykaho",
-                        "nickname": "kykaho",
-                        "skill_level": 10,
-                        "user_id": "02f3713e-0bda-4eb8-83f8-565ef4a8a9b5"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/939217b2-27e3-47ae-a1b4-5f3c0a35ffdb_1530358594098",
-                        "country": "LV",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/keenx",
-                        "nickname": "keenx",
-                        "skill_level": 10,
-                        "user_id": "939217b2-27e3-47ae-a1b4-5f3c0a35ffdb"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/3c752890-098d-4b02-8a6c-0eea79de5cb0_1436987649428",
-                        "country": "LV",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/d3kster",
-                        "nickname": "d3kster",
-                        "skill_level": 10,
-                        "user_id": "3c752890-098d-4b02-8a6c-0eea79de5cb0"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/2cd12e9a-2731-4e03-97e9-ffd1bf3951c8_1471962268754",
-                        "country": "LV",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/whiskas1337",
-                        "nickname": "whiskas1337",
-                        "skill_level": 10,
-                        "user_id": "2cd12e9a-2731-4e03-97e9-ffd1bf3951c8"
-                    }
-                ],
-                "name": "MightyWolves",
-                "nickname": "",
-                "team_id": "8577fbdf-6855-487f-80a5-06666d482e71",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "e96d4e40-33e4-4017-8c88-48e4acf356e5",
-            "group": 0,
-            "leader": "e545fecf-d4d0-4a68-a9ef-1be98fccfce2",
-            "roster": [
-                "073d46b5-acc1-4afd-8b97-d6a341bb13df",
-                "51282f74-3dc5-48da-9830-3e0ba666b3bc",
-                "e96d4e40-33e4-4017-8c88-48e4acf356e5",
-                "c9a9b2d6-acdc-4e4d-bced-c7ce590ab176",
-                "e545fecf-d4d0-4a68-a9ef-1be98fccfce2"
-            ],
-            "status": "joined",
-            "substitutes": [
-                "04abc605-1490-484c-8118-9f7c6da27403"
-            ],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-d29df572-4b8d-47c2-9d97-628380d5be2d",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/d29df572-4b8d-47c2-9d97-628380d5be2d",
-                "game": "",
-                "leader": "e545fecf-d4d0-4a68-a9ef-1be98fccfce2",
-                "members": [
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/04abc605-1490-484c-8118-9f7c6da27403_1530576459519",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Gmortagua",
-                        "nickname": "Gmortagua",
-                        "skill_level": 7,
-                        "user_id": "04abc605-1490-484c-8118-9f7c6da27403"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/073d46b5-acc1-4afd-8b97-d6a341bb13df_1488576692893",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Stevbadochas",
-                        "nickname": "Stevbadochas",
-                        "skill_level": 4,
-                        "user_id": "073d46b5-acc1-4afd-8b97-d6a341bb13df"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/c9a9b2d6-acdc-4e4d-bced-c7ce590ab176_1519515328274",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/_Crib_",
-                        "nickname": "_Crib_",
-                        "skill_level": 6,
-                        "user_id": "c9a9b2d6-acdc-4e4d-bced-c7ce590ab176"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/e96d4e40-33e4-4017-8c88-48e4acf356e5_1503504521422",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/MrMalibu06",
-                        "nickname": "MrMalibu06",
-                        "skill_level": 3,
-                        "user_id": "e96d4e40-33e4-4017-8c88-48e4acf356e5"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/e545fecf-d4d0-4a68-a9ef-1be98fccfce2_1511793747018",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Killer_Noobs",
-                        "nickname": "Killer_Noobs",
-                        "skill_level": 6,
-                        "user_id": "e545fecf-d4d0-4a68-a9ef-1be98fccfce2"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/51282f74-3dc5-48da-9830-3e0ba666b3bc_1533552517194",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/DioguetaPT",
-                        "nickname": "DioguetaPT",
-                        "skill_level": 5,
-                        "user_id": "51282f74-3dc5-48da-9830-3e0ba666b3bc"
-                    }
-                ],
-                "name": "OsQueimados",
-                "nickname": "",
-                "team_id": "d29df572-4b8d-47c2-9d97-628380d5be2d",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "7a29df5b-6795-4848-8411-b629f4e7dd39",
-            "group": 0,
-            "leader": "deeeeb54-91cb-4e4a-8a9c-796d085f088a",
-            "roster": [
-                "7a29df5b-6795-4848-8411-b629f4e7dd39",
-                "c10d3f24-413c-4567-b424-53f93e4fefe0",
-                "87c77400-fc0c-41a9-8759-a6b05fc8bcdd",
-                "deeeeb54-91cb-4e4a-8a9c-796d085f088a",
-                "38df84f3-1012-4abb-99c1-09ec35359d7a"
-            ],
-            "status": "joined",
-            "substitutes": [],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-ac6a8649-b790-4205-b528-579679b71e21",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/ac6a8649-b790-4205-b528-579679b71e21",
-                "game": "",
-                "leader": "deeeeb54-91cb-4e4a-8a9c-796d085f088a",
-                "members": [
-                    {
-                        "avatar": "",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Fyx22",
-                        "nickname": "Fyx22",
-                        "skill_level": 10,
-                        "user_id": "7a29df5b-6795-4848-8411-b629f4e7dd39"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/87c77400-fc0c-41a9-8759-a6b05fc8bcdd_1532115240533",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/derpsw",
-                        "nickname": "derpsw",
-                        "skill_level": 10,
-                        "user_id": "87c77400-fc0c-41a9-8759-a6b05fc8bcdd"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/deeeeb54-91cb-4e4a-8a9c-796d085f088a_1529917064650",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/niNja2s",
-                        "nickname": "niNja2s",
-                        "skill_level": 10,
-                        "user_id": "deeeeb54-91cb-4e4a-8a9c-796d085f088a"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/38df84f3-1012-4abb-99c1-09ec35359d7a_1533069954833",
-                        "country": "CO",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/nixoNdAbAlA2",
-                        "nickname": "nixoNdAbAlA2",
-                        "skill_level": 10,
-                        "user_id": "38df84f3-1012-4abb-99c1-09ec35359d7a"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/c10d3f24-413c-4567-b424-53f93e4fefe0_1478089816605",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/wh1tE1904",
-                        "nickname": "wh1tE1904",
-                        "skill_level": 10,
-                        "user_id": "c10d3f24-413c-4567-b424-53f93e4fefe0"
-                    }
-                ],
-                "name": "XF Iberia PRO",
-                "nickname": "",
-                "team_id": "ac6a8649-b790-4205-b528-579679b71e21",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "c064bc17-4c1d-430a-8b41-edff1783f2f1",
-            "group": 0,
-            "leader": "240623af-dd8d-4ecb-b145-df8fdef7dad8",
-            "roster": [
-                "c064bc17-4c1d-430a-8b41-edff1783f2f1",
-                "240623af-dd8d-4ecb-b145-df8fdef7dad8",
-                "efa22881-ab1c-4960-8999-af553363f4f3",
-                "cb42b21f-c2c1-410c-bb58-5258cff9d977",
-                "ed4d728f-88db-4be4-8cfa-b6d8f80bc0b5"
-            ],
-            "status": "joined",
-            "substitutes": [
-                "99a2bead-c6cb-418a-ab49-a7ee51381e9b"
-            ],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-556f4df9-452b-4363-9097-684b2e665949",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/556f4df9-452b-4363-9097-684b2e665949",
-                "game": "",
-                "leader": "240623af-dd8d-4ecb-b145-df8fdef7dad8",
-                "members": [
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/99a2bead-c6cb-418a-ab49-a7ee51381e9b_1507634090838",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/sunstyler_-",
-                        "nickname": "sunstyler_-",
-                        "skill_level": 10,
-                        "user_id": "99a2bead-c6cb-418a-ab49-a7ee51381e9b"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/cb42b21f-c2c1-410c-bb58-5258cff9d977_1479745447689",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/abr",
-                        "nickname": "abr",
-                        "skill_level": 10,
-                        "user_id": "cb42b21f-c2c1-410c-bb58-5258cff9d977"
-                    },
-                    {
-                        "avatar": "",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/CarboNero",
-                        "nickname": "CarboNero",
-                        "skill_level": 10,
-                        "user_id": "c064bc17-4c1d-430a-8b41-edff1783f2f1"
-                    },
-                    {
-                        "avatar": "",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/empyre",
-                        "nickname": "empyre",
-                        "skill_level": 10,
-                        "user_id": "240623af-dd8d-4ecb-b145-df8fdef7dad8"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/efa22881-ab1c-4960-8999-af553363f4f3_1418564506136",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/wrecky",
-                        "nickname": "wrecky",
-                        "skill_level": 10,
-                        "user_id": "efa22881-ab1c-4960-8999-af553363f4f3"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/ed4d728f-88db-4be4-8cfa-b6d8f80bc0b5_1530653983114",
-                        "country": "PT",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/kust0m",
-                        "nickname": "kust0m",
-                        "skill_level": 10,
-                        "user_id": "ed4d728f-88db-4be4-8cfa-b6d8f80bc0b5"
-                    }
-                ],
-                "name": "GTZ Bulls",
-                "nickname": "",
-                "team_id": "556f4df9-452b-4363-9097-684b2e665949",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "f74638a0-bf5e-4a2f-87c4-4c8ad2108d0b",
-            "group": 0,
-            "leader": "4f0dec80-cb81-4868-a1cf-76d5b2f43f92",
-            "roster": [
-                "4f0dec80-cb81-4868-a1cf-76d5b2f43f92",
-                "6c56e2f3-b266-4bcb-a1af-c4be5370fd82",
-                "edbfb24a-be73-4029-a320-2c87644627e7",
-                "29131b20-98e0-4628-bbb7-690cc7ff4e8b",
-                "f74638a0-bf5e-4a2f-87c4-4c8ad2108d0b"
-            ],
-            "status": "joined",
-            "substitutes": [
-                "06c1a60c-8a3a-4b19-91f9-322b1939c57c",
-                "343532de-0a2f-4388-9a08-7323205a274c",
-                "cba97e8c-145f-45e2-b563-e18cd3f698f9"
-            ],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-f3f1eb73-9290-44e7-8a89-2d19d1ab9f0c",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/f3f1eb73-9290-44e7-8a89-2d19d1ab9f0c",
-                "game": "",
-                "leader": "4f0dec80-cb81-4868-a1cf-76d5b2f43f92",
-                "members": [
-                    {
-                        "avatar": "",
-                        "country": "SE",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/em1n_-",
-                        "nickname": "em1n_-",
-                        "skill_level": 10,
-                        "user_id": "edbfb24a-be73-4029-a320-2c87644627e7"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/29131b20-98e0-4628-bbb7-690cc7ff4e8b_1506940581120",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Hype9130",
-                        "nickname": "Hype9130",
-                        "skill_level": 10,
-                        "user_id": "29131b20-98e0-4628-bbb7-690cc7ff4e8b"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/4f0dec80-cb81-4868-a1cf-76d5b2f43f92_1450821766998",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Swaggyavi",
-                        "nickname": "Swaggyavi",
-                        "skill_level": 10,
-                        "user_id": "4f0dec80-cb81-4868-a1cf-76d5b2f43f92"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/06c1a60c-8a3a-4b19-91f9-322b1939c57c_1525230146623",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/yura-",
-                        "nickname": "yura-",
-                        "skill_level": 10,
-                        "user_id": "06c1a60c-8a3a-4b19-91f9-322b1939c57c"
-                    },
-                    {
-                        "avatar": "https://cdn.faceit.com/avatars/6c56e2f3-b266-4bcb-a1af-c4be5370fd82_1538141904693",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/fzaN-",
-                        "nickname": "fzaN-",
-                        "skill_level": 10,
-                        "user_id": "6c56e2f3-b266-4bcb-a1af-c4be5370fd82"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/f74638a0-bf5e-4a2f-87c4-4c8ad2108d0b_1446844111071",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/kpiz",
-                        "nickname": "kpiz",
-                        "skill_level": 10,
-                        "user_id": "f74638a0-bf5e-4a2f-87c4-4c8ad2108d0b"
-                    },
-                    {
-                        "avatar": "",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/shaney",
-                        "nickname": "shaney",
-                        "skill_level": 10,
-                        "user_id": "cba97e8c-145f-45e2-b563-e18cd3f698f9"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/343532de-0a2f-4388-9a08-7323205a274c_1477251613078",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/TotunG",
-                        "nickname": "TotunG",
-                        "skill_level": 10,
-                        "user_id": "343532de-0a2f-4388-9a08-7323205a274c"
-                    }
-                ],
-                "name": "Fierce Esports",
-                "nickname": "",
-                "team_id": "f3f1eb73-9290-44e7-8a89-2d19d1ab9f0c",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "97cfb309-dce4-4740-b0f0-503a0d3cb019",
-            "group": 0,
-            "leader": "f31a924f-186a-4e8d-9617-1a87fb745af1",
-            "roster": [
-                "a5fad197-5100-45fd-a185-0afbe4d31ba4",
-                "8ea03dd7-57c8-43af-ad30-83052c84a760",
-                "97cfb309-dce4-4740-b0f0-503a0d3cb019",
-                "984d2e17-fd55-40f2-af04-766120505575",
-                "f31a924f-186a-4e8d-9617-1a87fb745af1"
-            ],
-            "status": "joined",
-            "substitutes": [
-                "25415280-a9a9-45ed-98a7-556ba835de34"
-            ],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-6f419978-0f7b-489f-9467-126ba799a210",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/6f419978-0f7b-489f-9467-126ba799a210",
-                "game": "",
-                "leader": "f31a924f-186a-4e8d-9617-1a87fb745af1",
-                "members": [
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/97cfb309-dce4-4740-b0f0-503a0d3cb019_1494603309818",
-                        "country": "UA",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/wo_of",
-                        "nickname": "wo_of",
-                        "skill_level": 10,
-                        "user_id": "97cfb309-dce4-4740-b0f0-503a0d3cb019"
-                    },
-                    {
-                        "avatar": "",
-                        "country": "UA",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/fo0RR",
-                        "nickname": "fo0RR",
-                        "skill_level": 10,
-                        "user_id": "984d2e17-fd55-40f2-af04-766120505575"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/8ea03dd7-57c8-43af-ad30-83052c84a760_1471383660121",
-                        "country": "UA",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Ujdo",
-                        "nickname": "Ujdo",
-                        "skill_level": 10,
-                        "user_id": "8ea03dd7-57c8-43af-ad30-83052c84a760"
-                    },
-                    {
-                        "avatar": "",
-                        "country": "UA",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/headtr1ck",
-                        "nickname": "headtr1ck",
-                        "skill_level": 10,
-                        "user_id": "25415280-a9a9-45ed-98a7-556ba835de34"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/f31a924f-186a-4e8d-9617-1a87fb745af1_1522697154491",
-                        "country": "UA",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Dangell1ll",
-                        "nickname": "Dangell1ll",
-                        "skill_level": 10,
-                        "user_id": "f31a924f-186a-4e8d-9617-1a87fb745af1"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/a5fad197-5100-45fd-a185-0afbe4d31ba4_1530656419214",
-                        "country": "UA",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/-arxon-",
-                        "nickname": "-arxon-",
-                        "skill_level": 7,
-                        "user_id": "a5fad197-5100-45fd-a185-0afbe4d31ba4"
-                    }
-                ],
-                "name": "ChemicalRush_CZ",
-                "nickname": "",
-                "team_id": "6f419978-0f7b-489f-9467-126ba799a210",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        },
-        {
-            "coach": "",
-            "coleader": "66d62d80-dcb4-4058-bab6-687109541313",
-            "group": 0,
-            "leader": "7d1c9827-e9ce-4882-86ac-1f1dd5aa71fd",
-            "roster": [
-                "57d4c808-c16b-47a0-a32e-5d7e1246908d",
-                "66d62d80-dcb4-4058-bab6-687109541313",
-                "43a2bceb-fe23-499e-99c2-1ad49bd082da",
-                "7d1c9827-e9ce-4882-86ac-1f1dd5aa71fd",
-                "39b3e081-cac5-4383-8953-60506651f6b9"
-            ],
-            "status": "checkedIn",
-            "substitutes": [
-                "fe6d3dd5-2f6c-4194-bb39-2f1cf8375fe1",
-                "9cc2548d-4a03-412d-ac64-bb72d277d805"
-            ],
-            "team": {
-                "avatar": "",
-                "chat_room_id": "team-5c12cc96-57d0-4260-a148-e61ce4a33e05",
-                "cover_image": "",
-                "description": "",
-                "facebook": "",
-                "faceit_url": "https://www.faceit.com/{lang}/teams/5c12cc96-57d0-4260-a148-e61ce4a33e05",
-                "game": "",
-                "leader": "7d1c9827-e9ce-4882-86ac-1f1dd5aa71fd",
-                "members": [
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/7d1c9827-e9ce-4882-86ac-1f1dd5aa71fd_1537350728355",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Switchr",
-                        "nickname": "Switchr",
-                        "skill_level": 8,
-                        "user_id": "7d1c9827-e9ce-4882-86ac-1f1dd5aa71fd"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/43a2bceb-fe23-499e-99c2-1ad49bd082da_1492338941457",
-                        "country": "EE",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/lokenslok",
-                        "nickname": "lokenslok",
-                        "skill_level": 5,
-                        "user_id": "43a2bceb-fe23-499e-99c2-1ad49bd082da"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/9cc2548d-4a03-412d-ac64-bb72d277d805_1458673666029",
-                        "country": "SE",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/-linus",
-                        "nickname": "-linus",
-                        "skill_level": 4,
-                        "user_id": "9cc2548d-4a03-412d-ac64-bb72d277d805"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/66d62d80-dcb4-4058-bab6-687109541313_1511627798767",
-                        "country": "SE",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/wizzler",
-                        "nickname": "wizzler",
-                        "skill_level": 7,
-                        "user_id": "66d62d80-dcb4-4058-bab6-687109541313"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/fe6d3dd5-2f6c-4194-bb39-2f1cf8375fe1_1467760443771",
-                        "country": "DE",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/megaoverlord",
-                        "nickname": "megaoverlord",
-                        "skill_level": 3,
-                        "user_id": "fe6d3dd5-2f6c-4194-bb39-2f1cf8375fe1"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/39b3e081-cac5-4383-8953-60506651f6b9_1520693887815",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/LFO",
-                        "nickname": "LFO",
-                        "skill_level": 10,
-                        "user_id": "39b3e081-cac5-4383-8953-60506651f6b9"
-                    },
-                    {
-                        "avatar": "https://d50m6q67g4bn3.cloudfront.net/avatars/57d4c808-c16b-47a0-a32e-5d7e1246908d_1507843300811",
-                        "country": "GB",
-                        "faceit_url": "https://www.faceit.com/{lang}/players/Archari",
-                        "nickname": "Archari",
-                        "skill_level": 10,
-                        "user_id": "57d4c808-c16b-47a0-a32e-5d7e1246908d"
-                    }
-                ],
-                "name": "TEAMGG",
-                "nickname": "",
-                "team_id": "5c12cc96-57d0-4260-a148-e61ce4a33e05",
-                "team_type": "premade",
-                "twitter": "",
-                "website": "",
-                "youtube": ""
-            }
-        }
-    ],
-    "start": 10
 }
