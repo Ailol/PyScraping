@@ -1,6 +1,8 @@
 import json
 import requests as req
+import numpy as np
 from pprint import pprint
+
 
 debug = "Succeed"
 players = []
@@ -60,33 +62,34 @@ def get_details(data, *args):
 	"""
 
 	i = 0
-
-	for item in data:
-		for k, v in item.items():
-			if k == 'group':
-				group.append(v)
-			try:
-				for key,value in v.items():
+	for key, value in data.items():
+		if key == 'items':
+			for item in value:
+				for k, v in item.items():
+					if k == 'group':
+						group.append(v)
 					try:
-						if(key == 'members'):
-							for item in value:
-								for key,value in item.items():
-									if key == 'country':
-										countries.append(value)
-									if key == 'nickname':
-										players.append(value)
-									if key == 'skill_level':
-										skill_level.append(value)
-						if key == 'name':
-							team.append(value)
-					except IndexError:
+						for key,value in v.items():
+							for i in range(len(key)):
+								try:
+									if(key == 'members'):
+										for item in value:
+											for key,value in item.items():
+												for i in range(len(key)):
+													if key == 'country':
+														countries.append(value)
+													if key == 'nickname':
+														players.append(value)
+													if key == 'skill_level':
+														skill_level.append(value)
+									if key == 'name':
+										team.append(value)
+								except IndexError:
+									continue
+					except AttributeError:
 						continue
-			except AttributeError:
-				continue
 
-	print(players, '\n\n', skill_level,'\n\n' ,team,'\n\n', countries,group, '\n\n')
-
-
+	return {'players': players, 'skill_level': skill_level, 'team':team, 'countries':countries, 'group':group}
 
 def get_teams(url, num_teams=None, dump=None):
 
@@ -122,10 +125,16 @@ def main():
 	param = (('expanded','game'),)
 
 	print(get_current_subs())
-	data = get_teams(url2,get_current_subs())
-	for key, value in data.items():
-		if key == 'items':
-			for i in range(len(key)):
-				get_details(value, None)
+	data = get_teams(url2,50)
+	d = get_details(data)
+	counts = {}
+	
+	for elem in d['countries']:
+		if elem in d['countries']:
+			counts[elem] += 1
+
+
+	print(np.median(d['skill_level']))
+
 if __name__ == "__main__":
 	main()
