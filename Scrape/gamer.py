@@ -13,6 +13,17 @@ import pprint
 """
 session_requests = requests.session()
 
+def print_results(count, count2, team_name):
+	print("\n # # # # # # # # # ")
+	print(" # "+team_name+"  ")
+	print(" # # # # # # # # # \n")
+	print(" __BANS__  ")
+	pprint.pprint(count)
+	print("\n __PICKS__ ")
+	pprint.pprint(count2)
+
+
+
 def login(username, password): 
 	payload = {
 		"email": username,
@@ -35,14 +46,11 @@ def login(username, password):
 
 def get_veto(team_name, team_url):
 
-	url = team_url
-
-	# doc = html.parse(url)
+	url    = team_url
 	result = session_requests.get(url, headers = dict(referer = url))
 	tree   = html.fromstring(result.content)
+
 	match_list = tree.xpath('//a[contains(@href,"/turneringer/kamp")]/@href')
-	# team_name = tree.xpath('//*[@id="main"]/div/div[1]/h1/text()')
-	# print(team_name)
 	pick = []
 	ban  = []
 
@@ -64,18 +72,10 @@ def get_veto(team_name, team_url):
 			i += 1	
 		
 		
-
 	count = collections.Counter(ban)
 	count2 = collections.Counter(pick)
 
-	print("\n # # # # # # # # # ")
-	print(" # "+team_name+"  ")
-	print(" # # # # # # # # # \n")
-	print(" __BANS__  ")
-	pprint.pprint(count)
-	print("\n __PICKS__ ")
-	pprint.pprint(count2)
-
+	return print_results(count, count2, team_name)
 
 def get_teams():
 	"""
