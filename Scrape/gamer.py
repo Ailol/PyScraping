@@ -5,6 +5,8 @@ import requests
 import lxml
 from lxml import html
 import db
+import collections
+import pprint
 
 """	
 	Short webscraper that fetches registered teams in telenorligaen @ GAMER.no
@@ -31,6 +33,49 @@ def login(username, password):
 	else:
 		raise IndexError
 
+def get_veto(team_name, team_url):
+
+	url = team_url
+
+	# doc = html.parse(url)
+	result = session_requests.get(url, headers = dict(referer = url))
+	tree   = html.fromstring(result.content)
+	match_list = tree.xpath('//a[contains(@href,"/turneringer/kamp")]/@href')
+	# team_name = tree.xpath('//*[@id="main"]/div/div[1]/h1/text()')
+	# print(team_name)
+	pick = []
+	ban  = []
+
+
+	for i in range(len(match_list)):
+		vetourl = "https://www.gamer.no" + match_list[i]
+		match = session_requests.get(vetourl, headers = dict(referer = vetourl))
+		res   = html.fromstring(match.content)
+		teamlist = res.xpath('//div[contains(@class, "veto-detail team")]/text()')
+		maplist = res.xpath('//div[contains(@class, "veto-detail map")]/text()')
+
+		i = 0
+		for t, m in zip(teamlist,maplist):
+			if t.strip() == team_name:
+				ban.append(m.strip())
+
+			if i == 2:
+				pick.append(m.strip())
+			i += 1	
+		
+		
+
+	count = collections.Counter(ban)
+	count2 = collections.Counter(pick)
+
+	print("\n # # # # # # # # # ")
+	print(" # "+team_name+"  ")
+	print(" # # # # # # # # # \n")
+	print(" __BANS__  ")
+	pprint.pprint(count)
+	print("\n __PICKS__ ")
+	pprint.pprint(count2)
+
 
 def get_teams():
 	"""
@@ -54,11 +99,17 @@ def main(*args):
 
 	try:
 		login(args[0],args[1])
-		DB = get_teams()
+		s = input("1. check how many teams are in \n2. get vetoes of given team \nANSWER:")
+		if s == 1:
+			DB = get_teams()
+			db.create_database(DB)
+		else:
+			get_veto(args[2], args[3])
+
+		
 	except IndexError:
 		print('Error on line {}'.format(sys.exc_info()[-1].tb_lineno)) 
 
-	db.create_database(DB)
 
 
 if __name__ == "__main__":
@@ -75,11 +126,18 @@ if __name__ == "__main__":
 	    help='Enter password for site',
 	    default="err")
 
+	parser.add_argument(
+	    'team_name',
+	    type=str,
+	    help='Enter login username',
+	    default='err')
+	parser.add_argument(
+	    'team_url',
+	    type=str,
+	    help='Enter password for site',
+	    default="err")
+
 	args = parser.parse_args()
 
-	main(args.username, args.password)
-
-
-
-
+	main(args.username, args.password, args.team_name, args.team_url)
 

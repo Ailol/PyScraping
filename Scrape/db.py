@@ -7,7 +7,7 @@ def create_database(lol):
 	conn = sqlite3.connect('gamer.db')
 	c = conn.cursor() 
 	try:
-		c.execute('''create table CS(Team text,date text)''')
+		c.execute("create table "+ input("Name of database? :")+ "(Team text,date text)")
 		c.executemany("INSERT INTO CS VALUES (?,?)", lol)
 		print("Database created!")
 	except Error as e:
